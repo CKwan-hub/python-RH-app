@@ -2,8 +2,9 @@ import robin_stocks as rs
 import json
 import os
 
+
 #  Handle login
-#  See if settings file exist
+#  Check if settings file exist
 try:
     #  attempt to read from settings file
     with open("settings1.json", "r") as f:
