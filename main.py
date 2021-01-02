@@ -1,6 +1,7 @@
 import robin_stocks as rs
 import json
 import os
+import Tkinter
 
 #  Handle login
 #  See if settings file exist
